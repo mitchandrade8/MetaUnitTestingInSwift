@@ -11,6 +11,7 @@
 		74904AD72AC4E19D00C28294 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74904AD62AC4E19D00C28294 /* ContentView.swift */; };
 		74904AD92AC4E1A000C28294 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74904AD82AC4E1A000C28294 /* Assets.xcassets */; };
 		74904ADC2AC4E1A000C28294 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74904ADB2AC4E1A000C28294 /* Preview Assets.xcassets */; };
+		74904AE32AC4E1E800C28294 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74904AE22AC4E1E800C28294 /* Recipe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		74904AD62AC4E19D00C28294 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		74904AD82AC4E1A000C28294 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74904ADB2AC4E1A000C28294 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		74904AE22AC4E1E800C28294 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				74904AD42AC4E19D00C28294 /* MetaUnitTestingInSwiftApp.swift */,
 				74904AD62AC4E19D00C28294 /* ContentView.swift */,
+				74904AE22AC4E1E800C28294 /* Recipe.swift */,
 				74904AD82AC4E1A000C28294 /* Assets.xcassets */,
 				74904ADA2AC4E1A000C28294 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74904AE32AC4E1E800C28294 /* Recipe.swift in Sources */,
 				74904AD72AC4E19D00C28294 /* ContentView.swift in Sources */,
 				74904AD52AC4E19D00C28294 /* MetaUnitTestingInSwiftApp.swift in Sources */,
 			);
