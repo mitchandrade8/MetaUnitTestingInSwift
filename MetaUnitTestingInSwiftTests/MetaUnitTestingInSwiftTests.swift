@@ -6,6 +6,7 @@
 //
 
 import XCTest
+@testable import MetaUnitTestingInSwift
 
 final class MetaUnitTestingInSwiftTests: XCTestCase {
     // Naming convention for tests
