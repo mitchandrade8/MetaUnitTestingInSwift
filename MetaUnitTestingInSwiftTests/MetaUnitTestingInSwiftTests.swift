@@ -8,5 +8,8 @@
 import XCTest
 
 final class MetaUnitTestingInSwiftTests: XCTestCase {
-
+    // Naming convention for tests
+    func test_whatIsTested_whatIsTheCircumstance_whatIsExpected() {
+        
+    }
 }
